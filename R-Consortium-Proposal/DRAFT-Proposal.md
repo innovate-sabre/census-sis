@@ -37,17 +37,19 @@ The first project we would like to take on is the creation of a guide to working
 1. Listing, describing and linking to packages currently available via CRAN that work with US Census Data. 
 2. Listing, describing and linking to reference materials for better understanding and working with Census data.
 
-The most likely failure mode for the **Package Selection** is not including all the relevant packages, or not communicating their differences in a way that helps users decide which package is most appropriate for their use. For example, it is not clear whether the Guide should simply copy the CRAN description of packages, or also include additional information (and if so, what information?). We plan to address this risk by publishing drafts of our work online, and incorporating feedback from the R community.
+The most likely failure mode for the **Package Selection** section is not including all the relevant packages, or not communicating their differences in a way that helps users decide which package is most appropriate for their use. At this point we do not know whether the Guide should simply copy the CRAN package description, or also include additional information. (And if so, what additional information?) We plan to address this risk by publishing and publicizing drafts of our work online, and incorporating feedback from the R community.
 
-The most likely failure mode for **Data Navigation** is not providing resources which are useful or relevant to the actual needs of the R community. We plan to address this by publishing drafts of our work online, and incorporating feedback from the R community.
+The most likely failure mode for the **Data Navigation** section is not providing resources which are useful or relevant to the actual needs of the R community. In teh same way that CRAN has a wealth of packages that can be difficult to navigate, the Census Bureau has a wealth of training material which can be difficult to navigate. We plan to address this by publishing and publicizing drafts of our work online, and incorporating feedback from the R community.
 
 # The Team 
 
 _Who will work on the project. Briefly describe all participants, and the skills they will bring to the project._
 
-**Ari Lamstein**. Ari is an R Trainer and Consultant who is currently working as a Data Science Instructor at the US Census Bureau. He has written several R packages that deal with US Census Data. Ari is planning to focuson on the **Package Selection** portion of the Guide.
+**Ari Lamstein**. Ari is an R Trainer and Consultant who is currently working as a Data Science Instructor at the US Census Bureau. He has written several R packages that deal with US Census Data. Ari is planning to focus on on the **Package Selection** portion of the Guide.
 
 **Logan T Powell**. Logan is the Developer Experience and Engagement Lead at the US Census Bureau. Logan is planning to work on the **Data Navigation** portion of the Guide.
+
+**Zach Whitman, PhD**. Zach is the Chief Data Officer at the US Census Bureau.
 
 # Project Milestones
 
