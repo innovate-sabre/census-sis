@@ -30,48 +30,60 @@ People often turn to the Census Bureau for answers to questions such as "How man
 
 _How are you going to solve the problem? Include the concrete actions you will take and an estimated timeline. What are likely failure modes and how will you recover from them?_
 
-We would like to create an R Consortrium Working Group to foster greater cooperation between the Census Bureau and R community.
+We would like to create an R Consortrium Working Group to foster greater cooperation between the US Census Bureau and R community.
 
-The first project we would like to take on is the creation of a guide to working with Census data in R ("The Guide"). The Guide would address the problems listed above by:
+The first project we would like the Working Group to take on is the creation of a guide to getting started with Census data in R ("The Guide"). The Guide would address the problems listed above by:
 
 1. Listing, describing and linking to packages currently available via CRAN that work with US Census Data. 
 2. Listing, describing and linking to reference materials for better understanding and working with Census data.
 
-The most likely failure mode for the **Package Selection** section is not including all the relevant packages, or not communicating their differences in a way that helps users decide which package is most appropriate for their use. At this point we do not know whether the Guide should simply copy the CRAN package description, or also include additional information. (And if so, what additional information?) We plan to address this risk by publishing and publicizing drafts of our work online, and incorporating feedback from the R community.
+The most likely failure mode for the **Package Selection** section is not including all the relevant packages, or not communicating the differences between the packages in a way that helps users decide which package is most appropriate for their use. At this point we do not know whether the Guide should simply copy the CRAN package description, or also include additional information. (And if should include additional information, what information should that be?) We plan to address this risk by publishing and publicizing drafts of our work online, and incorporating feedback from the R community.
 
-The most likely failure mode for the **Data Navigation** section is not providing resources which are useful or relevant to the actual needs of the R community. In teh same way that CRAN has a wealth of packages that can be difficult to navigate, the Census Bureau has a wealth of training material which can be difficult to navigate. We plan to address this by publishing and publicizing drafts of our work online, and incorporating feedback from the R community.
+The most likely failure mode for the **Data Navigation** section is not providing resources which are useful or relevant to the actual needs of the R community. In the same way that CRAN has a wealth of packages that can be difficult to navigate, the Census Bureau also has a wealth of training material which can be difficult to navigate. We plan to address this by publishing and publicizing drafts of our work online, and incorporating feedback from the R community.
 
 # The Team 
 
 _Who will work on the project. Briefly describe all participants, and the skills they will bring to the project._
 
-**Ari Lamstein**. Ari is an R Trainer and Consultant who is currently working as a Data Science Instructor at the US Census Bureau. He has written several R packages that deal with US Census Data. Ari is planning to focus on on the **Package Selection** portion of the Guide.
+**[Ari Lamstein]**. Ari is an R Trainer and Consultant who is currently working as a Data Science Instructor at the US Census Bureau. He has written several R packages that deal with US Census Data. Ari is planning to focus on on the **Package Selection** portion of the Guide.
 
 **Logan T Powell**. Logan is the Developer Experience and Engagement Lead at the US Census Bureau. Logan is planning to work on the **Data Navigation** portion of the Guide.
 
-**Zach Whitman, PhD**. Zach is the Chief Data Officer at the US Census Bureau.
+**Zach Whitman, PhD**. Zach is the Chief Data Officer at the US Census Bureau. Zach is planning to work on future projects related to changes in the Census API.
 
 # Project Milestones
 
 _Outline the milestones for development and how much funding will be required for each stage (as payments will be tied to project milestone completion). Each milestone should specify the work to be done and the expected outcomes, providing enough detail for the ISC to understand the scope of the project work._
 
-***Milestone 1: Select Publication Technology (1 Month)***
+***Milestone 1: Select Publication Technology (1 Month, $500)***
 
-Our first task will be selecting technology to use to publish the Guide. We would like the technology to be free and easy to update. Current candidates are WordPress and Github Pages.
+Our first task will be selecting technology to use to publish the Guide. We would like the technology to be free and easy to access, as well as free to host and easy to update. We are planning to start this phase by evaluating Github, Github Pages and WordPress.
 
-***Milestone 2: Assemble list of resources to include (1 Month)***
+This milestone wil be completed when there is a "Hello World" version of the Guide published, and both authors understand the workflow for editing it.
 
-Which packages should be included in the Guide?
+***Milestone 2: Assemble list of resources to include (1 Month, $1,000)***
 
-Which resources should the Guide link to?
+The initial package and resource lists will be based on our personal knowledge and experience. The lists will be stored in github so that other people can contribute to the lists. That github repository will then be publicized via our blogs and social media accounts.
 
-***Milestone 3: Complete Publication of Guide (1 Month)***
+This milestone will be completed when we have the final list of Package and Training resources that we plan to include in the guide.
 
-After assempling the list of content to include, we need to write up the results as a standalone work.
+***Milestone 3: Complete Publication of Guide (1 Month, $2,000)***
 
-***Milestone 4: Complete Dissemination (1 Month)***
+After we have the final list of resources we plan to include in the Guide, we will need to write up the results. 
 
-After publication, we will announce the completed Guide on our blogs and social media. In this phase we plan to reach out to other organizations (such as CRAN and the Census Bureau) to see if are interested in linking to the Guide from their website.
+This milestone will be completed once the final draft of the Guide is published.
+
+We plan to announce completion of this milestone on our blogs and social media accounts.
+
+***Milestone 4: Complete Dissemination (1 Month, $500)***
+
+Once the Guide is completed, we will focus on disseminating it to the largest possible audience.
+
+We will start by simply announcing the Guide's completion on our blogs and social media accounts.
+
+We will also reach out to the Census Bureau, which has already indicated an interest in linking to it from their website.
+
+We also believe that CRAN might want to link to the Guide on the [Official Statistics & Survey Methodlogy Task View](https://cran.r-project.org/web/views/OfficialStatistics.html). However, we have not yet spoken to the Task View Maintainer about this.
 
 # How Can The ISC Help
 
@@ -79,7 +91,9 @@ _Please describe how you think the ISC can help. If you are looking for a cash g
 
 We are seeking to create an ISC Working Group to promote using R to analyze US Census Data. The individual who will be committed to leading and managing the group's activities is Ari Lamstein.
 
-We are requesting a $2,000 grant to fund completion of the Guide. We believe it is likely that after the Guide is created, the group will wish to apply for other grants. For example, Census is interested in getting feedback from the R community on its API. We plan to apply for a separate grant to coordinate those activities. 
+We are requesting a $4,000 grant to fund completion of the Working Group's first project: a Guide to getting started with Census Data in R ("The Guide"). The _Project Milestones_ sections contains a breakdown of funding by milestone.
+
+The Census Bureau is currently planning changes to its API. We hope that a future project for the Working Group will be to get feedback on the API from the R Community.
 
 In addition to creating a Working Group and financially supporting the creaiton of the Guide, we believe that the R Consortium can help this project to succeed by facilitating cooperation among stakeholders and disseminating and promoting the Guide on the R Consortium website.
 
@@ -87,12 +101,10 @@ In addition to creating a Working Group and financially supporting the creaiton 
 
 _How will you ensure that your work is available to the widest number of people? Please specify the open source or creative commons license(s) will you use, how you will host your code so that others can contribute, and how you will publicise your work. We encourage you to plan content to be shared quarterly on the R Consortium blog._
 
-We plan to releaser the Github under the [Creative Commons Attribution 4.0 License] (https://creativecommons.org/licenses/by/4.0/). 
+We plan to publish the Guide under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/). 
 
-We plan to publish the guide as website or webpage. 
+As indicated in the *Project Milestones* Section, we plan to include the community in the drafting of the Guide, and we plan to publicize project milestones on our blogs and social media accounts.
 
-We plan to publicize the completion of the guide on our blogs and social media. 
+The Census Bureau has also indicated an interest in linking to the Guide on its website once it is completed.
 
-We think that CRAN might wish to link to the Guide on the [Official Statistics & Survey Methodlogy Task View](https://cran.r-project.org/web/views/OfficialStatistics.html).
-
-We think that the Census Bureau might also wish to link to the Guide on their Training website.
+We also hope to speak with the maintainer of CRAN's [Official Statistics & Survey Methodlogy Task View](https://cran.r-project.org/web/views/OfficialStatistics.html) about including a link to the Guide.
