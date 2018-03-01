@@ -18,13 +18,13 @@ An R user looking for packages to help with a project on US Census Data would li
 4. Many package titles appear to be duplicative (e.g. censusr's title "Collect Data from the Census API" is very similar to censusapi's  title of "Retrieve Data from the Census APIs").
 3. Some packages that deal with US Census Data do not have the word "Census" in their name or title (e.g. the choroplethr package).
 
-For these reasons, even an experience R user might find it challenging to determine which R package, if any, can help them with their Census-related project.
+For these reasons, even an experienced R user might find it challenging to determine which R package, if any, can help them with their Census-related project.
 
 Note that these issues might also lead to package duplication on CRAN. That is, a developer might create a package to solve a problem which an existing package already solves.
 
 ***Data Navigation***
 
-People often turn to the Census Bureau for answers to questions such as "How many people live in a certain region?" They are often surprised that the answer depends on which data product they query. That is, many R users begin their interaction with Census Data not fully understanding the array of data that is available to them, or when it is better to use one data product over another.
+People often turn to the Census Bureau for answers to questions such as "How many people live in a certain region?" They are often surprised that the answer depends on which data product they query. That is, many R users begin their interaction with Census Data not fully understanding the array of data available to them, or when it is better to use one data product over another.
 
 # The Plan 
 
@@ -37,9 +37,11 @@ The first project we would like the Working Group to take on is the creation of 
 1. Listing, describing and linking to packages currently available via CRAN that work with US Census Data. 
 2. Listing, describing and linking to reference materials for better understanding and working with Census data.
 
-The most likely failure mode for the **Package Selection** section is not including all the relevant packages, or not communicating the differences between the packages in a way that helps users decide which package is most appropriate for their use. At this point we do not know whether the Guide should simply copy the CRAN package description, or also include additional information. (And if should include additional information, what information should that be?) We plan to address this risk by publishing and publicizing drafts of our work online, and incorporating feedback from the R community.
+The most likely failure mode for the **Package Selection** section is not including all the relevant packages, or not communicating the differences between the packages in a way that helps users decide which package is most appropriate for their use. At this point we do not know whether the Guide should simply copy the CRAN package description, or also include additional information. (And if it should include additional information, what information should that be?) We plan to address this risk by publishing and publicizing drafts of our work online, and incorporating feedback from the R community.
 
-The most likely failure mode for the **Data Navigation** section is not providing resources which are useful or relevant to the actual needs of the R community. In the same way that CRAN has a wealth of packages that can be difficult to navigate, the Census Bureau also has a wealth of training material which can be difficult to navigate. We plan to address this by publishing and publicizing drafts of our work online, and incorporating feedback from the R community.
+The most likely failure mode for the **Data Navigation** section is not providing resources which are useful or relevant to the actual needs of the R community. In the same way that CRAN has a wealth of packages that can be difficult to navigate, the Census Bureau also has a wealth of training material that can be difficult to navigate. We plan to address this by publishing and publicizing drafts of our work online, and incorporating feedback from the R community.
+
+Another failure mode which we do not address in this proposal is maintenance of the Guide. While the Guide might be completely accurate the time of publication, it will naturally become less accurate over time. At this point it is not clear what the best way to maintain the Guide is.
 
 # The Team 
 
