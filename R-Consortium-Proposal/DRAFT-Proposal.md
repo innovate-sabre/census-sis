@@ -18,7 +18,7 @@ An R user looking for packages to help with a project on US Census Data would li
 4. Many package titles appear to be duplicative (e.g. censusr's title "Collect Data from the Census API" is very similar to censusapi's  title of "Retrieve Data from the Census APIs").
 3. Some packages that deal with US Census Data do not have the word "Census" in their name or title (e.g. the choroplethr package).
 
-For these reasons, a novice R user might find it challenging to determine which R package, if any, can help them with their Census-related project.
+For these reasons, even an experience R user might find it challenging to determine which R package, if any, can help them with their Census-related project.
 
 Note that these issues might also lead to package duplication on CRAN. That is, a developer might create a package to solve a problem which an existing package already solves.
 
@@ -30,7 +30,7 @@ People often turn to the Census Bureau for answers to questions such as "How man
 
 _How are you going to solve the problem? Include the concrete actions you will take and an estimated timeline. What are likely failure modes and how will you recover from them?_
 
-We would like to create an R Consortrium Working Group to foster greater cooperation between the US Census Bureau and R community.
+We would like to create an R Consortrium Working Group to foster greater cooperation between the US Census Bureau and R community. We hope that the working group will become a place where statisticians working with census data can cooperate under the guidance of the Census Bureau.
 
 The first project we would like the Working Group to take on is the creation of a guide to getting started with Census data in R ("The Guide"). The Guide would address the problems listed above by:
 
@@ -45,7 +45,7 @@ The most likely failure mode for the **Data Navigation** section is not providin
 
 _Who will work on the project. Briefly describe all participants, and the skills they will bring to the project._
 
-**[Ari Lamstein]**. Ari is an R Trainer and Consultant who is currently working as a Data Science Instructor at the US Census Bureau. He has written several R packages that deal with US Census Data. Ari is planning to focus on on the **Package Selection** portion of the Guide.
+**Ari Lamstein**. Ari is an R Trainer and Consultant who is currently working as a Data Science Instructor at the US Census Bureau. He has written several R packages that deal with US Census Data. Ari is planning to focus on on the **Package Selection** portion of the Guide.
 
 **Logan T Powell**. Logan is the Developer Experience and Engagement Lead at the US Census Bureau. Logan is planning to work on the **Data Navigation** portion of the Guide.
 
@@ -83,7 +83,7 @@ We will start by simply announcing the Guide's completion on our blogs and socia
 
 We will also reach out to the Census Bureau, which has already indicated an interest in linking to it from their website.
 
-We also believe that CRAN might want to link to the Guide on the [Official Statistics & Survey Methodlogy Task View](https://cran.r-project.org/web/views/OfficialStatistics.html). However, we have not yet spoken to the Task View Maintainer about this.
+We also believe that CRAN might want to link to the Guide on the [Official Statistics & Survey Methodlogy Task View](https://cran.r-project.org/web/views/OfficialStatistics.html). However, we have not yet spoken to the Task View Maintainer about this. If the maintainer thinks that this project is not a perfect fit, then we are open to creating a separate task view dedicated to US Census Statistics.
 
 # How Can The ISC Help
 
@@ -107,4 +107,4 @@ As indicated in the *Project Milestones* Section, we plan to include the communi
 
 The Census Bureau has also indicated an interest in linking to the Guide on its website once it is completed.
 
-We also hope to speak with the maintainer of CRAN's [Official Statistics & Survey Methodlogy Task View](https://cran.r-project.org/web/views/OfficialStatistics.html) about including a link to the Guide.
+We also hope to speak with the maintainer of CRAN's [Official Statistics & Survey Methodlogy Task View](https://cran.r-project.org/web/views/OfficialStatistics.html) about including a link to the Guide. If the maintainer thinks that this project is not a perfect fit, then we are open to creating a separate task view dedicated to US Census Statistics.
