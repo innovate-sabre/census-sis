@@ -21,13 +21,13 @@ Note that these issues might also lead to package duplication on CRAN. That is, 
 
 People often turn to the Census Bureau for answers to questions such as "How many people live in a certain region?" They are often surprised that the answer depends on which data product they query. That is, many R users begin their interaction with Census Data not fully understanding the array of data available to them, or when it is better to use one data product over another.
 
-# The Plan 
+# The Plan
 
 We would like to create an R Consortrium Working Group to foster greater cooperation between the US Census Bureau and R community. We hope that the working group will become a place where statisticians working with census data can cooperate under the guidance of the Census Bureau.
 
 The first project we would like the Working Group to take on is the creation of a guide to getting started with Census data in R ("The Guide"). The Guide would address the problems listed above by:
 
-1. Listing, describing and linking to packages currently available via CRAN that work with US Census Data. 
+1. Listing, describing and linking to packages currently available via CRAN that work with US Census Data.
 2. Listing, describing and linking to reference materials for better understanding and working with Census data.
 
 The most likely failure mode for the **Package Selection** section is not including all the relevant packages, or not communicating the differences between the packages in a way that helps users decide which package is most appropriate for their use. At this point we do not know whether the Guide should simply copy the CRAN package description, or also include additional information. (And if it should include additional information, what information should that be?) We plan to address this risk by publishing and publicizing drafts of our work online, and incorporating feedback from the R community.
@@ -36,7 +36,7 @@ The most likely failure mode for the **Data Navigation** section is not providin
 
 Another failure mode which we do not address in this proposal is maintenance of the Guide. While the Guide might be completely accurate the time of publication, it will naturally become less accurate over time. At this point it is not clear what the best way to maintain the Guide is.
 
-# The Team 
+# The Team
 
 **Ari Lamstein**. Ari is an R Trainer and Consultant who is currently working as a Data Science Instructor at the US Census Bureau. He has written several R packages that deal with US Census Data. Ari is planning to focus on on the **Package Selection** portion of the Guide.
 
@@ -62,7 +62,7 @@ This milestone will be completed when we have the final list of Package and Trai
 
 ***Milestone 3: Complete Publication of Guide (1 Month, $2,000)***
 
-After we have the final list of resources we plan to include in the Guide, we will need to write up the results. 
+After we have the final list of resources we plan to include in the Guide, we will need to write up the results.
 
 This milestone will be completed once the final draft of the Guide is published.
 
@@ -90,7 +90,7 @@ In addition to creating a Working Group and financially supporting the creation 
 
 # Dissemination
 
-We plan to publish the Guide under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/). 
+We plan to publish the Guide under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 As indicated in the *Project Milestones* Section, we plan to include the community in the drafting of the Guide, and we plan to publicize project milestones on our blogs and social media accounts.
 
