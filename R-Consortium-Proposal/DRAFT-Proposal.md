@@ -53,6 +53,8 @@ _Who will work on the project. Briefly describe all participants, and the skills
 
 **Zach Whitman, PhD**. Zach is the Chief Data Officer at the US Census Bureau. Zach is planning to work on future projects related to changes in the Census API.
 
+__Kyle Walker, PhD__. Kyle is Associate Professor of Geography at Texas Christian University.  Kyle is the primary author of the tigris, tidycensus, and idbr R packages for working with Census Bureau spatial and tabular data in R.  
+
 # Project Milestones
 
 _Outline the milestones for development and how much funding will be required for each stage (as payments will be tied to project milestone completion). Each milestone should specify the work to be done and the expected outcomes, providing enough detail for the ISC to understand the scope of the project work._
