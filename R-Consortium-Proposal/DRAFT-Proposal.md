@@ -97,7 +97,7 @@ We are requesting a $4,000 grant to fund completion of the Working Group's first
 
 The Census Bureau is currently planning changes to its API. We hope that a future project for the Working Group will be to get feedback on the API from the R Community.
 
-In addition to creating a Working Group and financially supporting the creaiton of the Guide, we believe that the R Consortium can help this project to succeed by facilitating cooperation among stakeholders and disseminating and promoting the Guide on the R Consortium website.
+In addition to creating a Working Group and financially supporting the creation of the Guide, we believe that the R Consortium can help this project to succeed by facilitating cooperation among stakeholders and disseminating and promoting the Guide on the R Consortium website.
 
 # Dissemination
 
@@ -109,4 +109,4 @@ As indicated in the *Project Milestones* Section, we plan to include the communi
 
 The Census Bureau has also indicated an interest in linking to the Guide on its website once it is completed.
 
-We also hope to speak with the maintainer of CRAN's [Official Statistics & Survey Methodlogy Task View](https://cran.r-project.org/web/views/OfficialStatistics.html) about including a link to the Guide. If the maintainer thinks that this project is not a perfect fit, then we are open to creating a separate task view dedicated to US Census Statistics.
+We also hope to speak with the maintainer of CRAN's [Official Statistics & Survey Methodology Task View](https://cran.r-project.org/web/views/OfficialStatistics.html) about including a link to the Guide. If the maintainer thinks that this project is not a perfect fit, then we are open to creating a separate task view dedicated to US Census Statistics.
